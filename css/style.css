@@ -1,0 +1,55 @@
+body {
+  background-color: #fce4ec;
+  color: #333;
+}
+.navbar,
+footer {
+  background-color: #f8bbd0;
+}
+.nav-link:hover,
+.navbar-brand {
+  color: white;
+}
+.gambar {
+  border-radius: 20px;
+  margin-top: 50px;
+}
+.home {
+  margin-top: -50px;
+}
+hr {
+  width: 200px;
+  margin: auto;
+  border-top: 3px solid #ff69b4;
+  padding-bottom: 50px;
+}
+#portfolio img {
+  background-size: cover;
+  width: 100%;
+}
+.hrp {
+  color: black;
+}
+footer a {
+  padding-right: 20px;
+  color: black;
+}
+.fdiv {
+  display: inline-block;
+  margin-left: 30px;
+}
+.af {
+  text-decoration: none;
+}
+.af:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+.nunito {
+  font-family: "nunito";
+}
+
+footer {
+  margin-top: 100px;
+}
