@@ -10,12 +10,17 @@ footer {
 .navbar-brand {
   color: white;
 }
+
+/* .home {
+} */
+
+.teks-home {
+  margin-bottom: 200px;
+}
+
 .gambar {
   border-radius: 20px;
-  margin-top: 50px;
-}
-.home {
-  margin-top: -50px;
+  margin-top: 130px;
 }
 hr {
   width: 200px;
