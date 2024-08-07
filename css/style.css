@@ -6,8 +6,14 @@ body {
 footer {
   background-color: #f8bbd0;
 }
-.nav-link:hover,
-.navbar-brand {
+
+.nav-link {
+  border-radius: 10px;
+  margin-right: 5px;
+}
+
+.nav-link:hover {
+  background-color: #d81b60;
   color: white;
 }
 
@@ -32,9 +38,12 @@ hr {
   background-size: cover;
   width: 100%;
 }
-.hrp {
-  color: black;
+
+.estetik {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
+
 footer a {
   padding-right: 20px;
   color: black;
@@ -48,11 +57,21 @@ footer a {
 }
 .af:hover {
   text-decoration: underline;
-  color: gray;
+  color: #d81b60;
 }
 
 .nunito {
   font-family: "nunito";
+}
+
+.btn-primary {
+  background-color: #d81b60;
+  border-color: #d81b60;
+}
+.btn-primary:hover {
+  background-color: #c2185b;
+  border-color: #c2185b;
+  box-shadow: 2px 2px 5px black;
 }
 
 footer {
